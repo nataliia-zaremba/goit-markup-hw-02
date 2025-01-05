@@ -56,13 +56,11 @@ ul {
         line-height: 150%;
         letter-spacing: 0.04em;
         color: #fff;
- box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-            background: #4d5ae5;
+        background: #4d5ae5;
             cursor: pointer;
 }
 .main-page-button:hover {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-        background: #404bbf;
+     background: #404bbf;
 }
 .main-page-button:focus {
     background: #404bbf;
