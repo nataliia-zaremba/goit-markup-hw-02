@@ -177,6 +177,9 @@ font-family: "Roboto", sans-serif;
         text-transform: capitalize; 
         color: #2e2f42;
 }
+.list > li {
+background: #fff;
+}
 .thirdtitle {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
